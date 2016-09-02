@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CommonTools</string>
+    <string name="button">Button</string>
+    <string name="text1">即时显示已选项目</string>
+    <string name="before">before</string>
+    <string name="checkbox_1">CheckBox 1</string>
+    <string name="checkbox_2">checkbox 2</string>
+    <string name="checkbox_3">checkbox 3</string>
+    <string name="radiobutton_1">RadioButton 1</string>
+    <string name="radiobutton_2">RadioButton 2</string>
+    <string name="radiobutton_3">RadioButton 3</string>
+</resources>
